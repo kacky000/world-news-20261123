@@ -1,7 +1,7 @@
 // Every story below happened, was first reported, or is scheduled to happen on
 // Monday 23 November 2026 (UTC). Tags say how sure we are; FORECAST = on today's schedule.
 export const DAY = { weekday: 'MONDAY', date: '23 NOVEMBER 2026', short: '23 NOV' };
-export const FILED = '00:55';
+export const FILED = '01:00';
 
 export const LEADS = [
   {
